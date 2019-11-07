@@ -1,7 +1,12 @@
 {
-  "videos": [
-  "https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1",
-  "https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1",
-  "https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1"
+  "videos": [{
+  "videoUrl":"https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1",
+  "videoId":"P6z1zU3UxWU"},
+  {
+  "videoUrl":"https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1",
+  "videoId":"P6z1zU3UxWU"},
+  {
+  "videoUrl":"https://www.youtube.com/watch?v=P6z1zU3UxWU&list=RDP6z1zU3UxWU&start_radio=1",
+  "videoId":"P6z1zU3UxWU"}
   ]
 }
